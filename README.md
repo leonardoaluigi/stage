@@ -1,3 +1,4 @@
+capeV2.py is the file used to automize ransomware analysis through capeV2's APIs
 you can download complete analyses of these ransomware's samples:
 1. Akira;
 2. LockBit;
